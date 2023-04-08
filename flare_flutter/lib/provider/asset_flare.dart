@@ -1,7 +1,6 @@
 import 'package:flare_flutter/asset_provider.dart';
-import 'package:flutter/rendering.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:meta/meta.dart';
 
 /// Fetches a Flare from an [AssetBundle].
 @immutable
